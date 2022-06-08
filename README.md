@@ -1,6 +1,8 @@
 # CocktailRecipes
 Search your favorites cocktail by ingredient 
 
+![APP](./cocktailrecipes.gif)
+
 ## You can 
 - Search your favorite drinks by ingredient 
 - Watchs recipes and foto 
